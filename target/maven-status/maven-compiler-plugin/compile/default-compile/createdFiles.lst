@@ -1,0 +1,5 @@
+com\bfhl\gui\GUI.class
+com\bfhl\model\Payment.class
+com\bfhl\model\Employee.class
+com\bfhl\MainApp.class
+com\bfhl\model\Department.class
